@@ -1,6 +1,6 @@
 category: html
 title: html basic
-lectures: kime
+lectures: kwang
 related:
 - css
 - tag
