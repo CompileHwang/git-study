@@ -1,5 +1,5 @@
 category: css
-lectures: Lim
+lectures: park
 related:
 - html
 - xcss
